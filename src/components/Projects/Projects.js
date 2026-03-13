@@ -25,7 +25,7 @@ function Projects() {
               imgPath={Mommilk}
               title="MomMilk Front-End Project"
               description="MomMilk is an e-commerce platform for pregnant mothers and babies to search, compare, and buy milk products easily. Built with React.js, Vite.js, C#, and API Swagger, it uses MySQL and Firebase for data management, with secure JWT authentication. Deployed on Firebase and Azure, MomMilk ensures a seamless and reliable shopping experience."
-              ghLink="https://github.com/hungitlor123/MomMilk88_FE"
+              ghLink="https://github.com/hungpv283/MomMilk88_FE"
               demoLink="https://suame88-f056d.web.app/"
             />
           </Col>
@@ -35,7 +35,7 @@ function Projects() {
               imgPath={Portfolio}
               title="Portfolio Website"
               description="My personal Portfolio Website build with React and Bootstrap. It is fully responsive website which supports both dark and light mode."
-              ghLink="https://github.com/hungitlor123/hungitPortfolio"
+              ghLink="https://github.com/hungpv283/hungitPortfolio"
               demoLink="hungit-portfolio.vercel.app"
             />
           </Col>

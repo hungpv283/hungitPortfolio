@@ -10,7 +10,7 @@ function Github() {
       </h1>
       <div className="gitContainer" data-aos="fade-up">
         <GitHubCalendar
-          username="hungitlor123"
+          username="hungpv283"
           color="#1872B6"
           blockSize={15}
           blockMargin={5}

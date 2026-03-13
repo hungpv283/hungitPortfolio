@@ -56,7 +56,7 @@ function Home2() {
             <ul className="home-about-social-links" data-aos="fade-up">
               <li className="social-icons">
                 <a
-                  href="https://github.com/hungitlor123"
+                  href="https://github.com/hungpv283"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -78,7 +78,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.facebook.com/hungitlor123/"
+                  href="https://www.facebook.com/hungpv283/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -89,7 +89,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/hungitlor123/"
+                  href="https://www.instagram.com/hungpv283/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

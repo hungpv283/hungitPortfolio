@@ -12,7 +12,7 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <span>
             Designed and Developed by{" "}
-            <i className="primary-header">hungitlor123</i>
+            <i className="primary-header">hungpv283</i>
           </span>
         </Col>
         <Col md="4" className="footer-body">
@@ -21,7 +21,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="github"
-                href="https://github.com/hungitlor123"
+                href="https://github.com/hungpv283"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="github"
@@ -45,7 +45,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="facebook"
-                href="https://www.facebook.com/hungitlor123/"
+                href="https://www.facebook.com/hungpv283/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="facebook"
@@ -57,7 +57,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="instagram"
-                href="https://www.instagram.com/hungitlor123/"
+                href="https://www.instagram.com/hungpv283/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="instagram"
